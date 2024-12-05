@@ -18,13 +18,13 @@ The `DRLm` package is a collection of dose-response functions  for `qraLm` packa
 
 ## Installation
 
-You can install the `DRLm` development version from [GitHub: https://github.com/vcadavez/DRLm](https://github.com/vcadavez/DRLm) using the `devtools` package:
+You can install the `DRLm` development version from [GitHub: https://github.com/WorldHealthOrganization/DRLm](https://github.com/WorldHealthOrganization/DRLm) using the `devtools` package:
 
 
 
 ```{r, eval=FALSE}
 install.packages("devtools")
-devtools::install_github("vcadavez/DRLm")
+devtools::install_github("WorldHealthOrganization/DRLm")
 ```
 
 

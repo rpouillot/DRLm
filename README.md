@@ -3,17 +3,16 @@
 
 # DRLm <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
-The `DRLm` package is a collection of dose-response
-functions for `qraLm` package.
+The `DRLm` package is a collection of dose-response functions for
+`qraLm` package.
 
 ## Installation
 
-You can install the `DRLm` development version from
-[GitHub:
-https://github.com/vcadavez/DRLm](https://github.com/vcadavez/DRLm)
+You can install the `DRLm` development version from [GitHub:
+https://github.com/WorldHealthOrganization/DRLm](https://github.com/WorldHealthOrganization/DRLm)
 using the `devtools` package:
 
 ``` r
 install.packages("devtools")
-devtools::install_github("vcadavez/DRLm")
+devtools::install_github("WorldHealthOrganization/DRLm")
 ```
