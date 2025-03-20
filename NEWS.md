@@ -1,6 +1,9 @@
 
 # DRLm 0.1.0
 
-## First release
+## First Release
 
-- Dose response models for *Listeria monocytogenes*
+### Key Features
+
+- Implements dose-response models tailored for *Listeria monocytogenes*
+  analysis.

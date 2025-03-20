@@ -1,6 +1,6 @@
 Package: DRLm
 Title: Dose-Response models currently for Listeria monocytogenes
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Régis", "Pouillot", , "rpouillot.work@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6107-5212")),
@@ -16,7 +16,7 @@ Authors@R: c(
            )
 Description: This package provides the functions of the Dose-Response model for Listeria monocytogenes from WHO 2024.
 Depends: R (>= 3.5.0)
-Imports: cubature, Rdpack
+Imports: Rdpack, cubature
 RdMacros: Rdpack
 License: GPL (>= 3)
 LazyLoad: yes
@@ -26,7 +26,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 NeedsCompilation: no
 Maintainer: Regis Pouillot <rpouillot.work@gmail.com>
-Packaged: 2023-02-15 18:00:43 UTC
+Packaged: 2025-03-20 12:38:43 UTC
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3

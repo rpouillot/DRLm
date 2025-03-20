@@ -99,3 +99,4 @@ DRQuick <- function(Dose, model="JEMRA", population = 1, Poisson = FALSE){
   colnames(risk) <- names$Characteristics[population]
   return(risk)
 }
+

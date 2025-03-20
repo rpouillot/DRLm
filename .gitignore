@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+^NEWS\.Rmd$
+^README\.Rmd$
+^_pkgdown\.yml$
